@@ -1,0 +1,13 @@
+.loader {
+  display: none;
+}
+.error {
+  display: none;
+}
+.cat-img {
+  width: 500px;
+}
+.cat-info {
+  display: flex;
+  gap: 20px;
+}
